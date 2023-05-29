@@ -1,5 +1,3 @@
-# prework-study-guide
-UTABootCamp Prework
 # <Prework Study Guide Webpage>
 
 ## Description
